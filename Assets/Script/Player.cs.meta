@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0c48462eedb7fdb4485765c55220bf74
+timeCreated: 1456676586
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - stageClear: {instanceID: 0}
+  - start_1: {instanceID: 0}
+  - start_2: {instanceID: 0}
+  - start_3: {instanceID: 0}
+  - start: {instanceID: 0}
+  - Right_Up: {instanceID: 0}
+  - Left_Up: {instanceID: 0}
+  - Right_Down: {instanceID: 0}
+  - Left_Down: {instanceID: 0}
+  - colAudio: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
